@@ -1,0 +1,91 @@
+let cardsInfo = `
+    [
+         {
+            "img": "https://cdn.pixabay.com/photo/2017/07/31/11/44/laptop-2557571_960_720.jpg",
+            "task": "CR finish",
+            "info": "Doing my CR befor 18:00 pm",
+            "importance": 3,
+            "deadLine": "22/07/2020"
+            
+            
+        },{
+            "img": "https://cdn.pixabay.com/photo/2020/08/12/19/28/great-wall-of-china-5483516_960_720.jpg",
+            "task": "Tour in City",
+            "info": "Make a Tour in the city",
+            "importance": 2,
+            "deadLine": "23/07/2020"
+            
+
+            
+        },{
+            "img": "https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014618_960_720.jpg",
+            "task": "Shopping",
+            "info": "Going to SCS for buy Clothes",
+            "importance": 1 ,
+            "deadLine": "24/07/2020"
+
+
+
+
+        },{
+            
+            "img": "https://cdn.pixabay.com/photo/2013/03/19/18/23/mountain-biking-95032_960_720.jpg",
+            "task": "Sporting",
+            "info": "Doing some Sport to keep aktive",
+            "importance": 0 ,
+            "deadLine": "25/07/2020"
+
+        },{
+            "img": "https://cdn.pixabay.com/photo/2020/01/18/19/42/amit-4776250_960_720.jpg",
+            "task": "Helping",
+            "info": "Meeting my old friends",
+            "importance": 0 ,
+            "deadLine": "26/07/2020"
+
+
+
+             },{
+            "img": "https://cdn.pixabay.com/photo/2017/10/13/12/29/hands-2847508_960_720.jpg",
+            "task": "Math",
+            "info": "Helping the other in many things",
+            "importance": 0,
+            "deadLine": "27/07/2020"
+
+
+
+
+             },{
+            "img": "https://cdn.pixabay.com/photo/2017/07/20/03/53/homework-2521144_960_720.jpg",
+            "task": "Painting",
+            "info": "Try to solve some proplem in Math",
+            "importance": 0 ,
+            "deadLine": "28/07/2020"
+
+
+
+
+            },{
+            "img": "https://cdn.pixabay.com/photo/2018/03/03/06/26/girl-3194977_960_720.jpg",
+            "task": "Painting",
+            "info": "Paintin from time to time",
+            "importance": 0 ,
+            "deadLine": "29/07/2020"
+
+
+
+
+            },{
+            "img": "https://cdn.pixabay.com/photo/2018/01/28/10/59/internet-3113279_960_720.jpg",
+            "task" : "Chating",
+            "info": "Chating and surfing facebook",
+            "importance": 0 ,
+            "deadLine": "30/07/2020"
+
+}
+
+
+
+
+    
+    ]
+`
