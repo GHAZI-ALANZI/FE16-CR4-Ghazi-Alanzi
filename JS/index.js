@@ -28,7 +28,7 @@ function myCards(items) {
                 <img src="${y.img}" class="card-img-top img-thumbnail">
                 <div class="card-body">
                 <h5 class="card-title text-center">${y.task}</h5>
-                <p>${y.y}</p>
+                <p>${y.info}</p>
                 <hr>
                 <p class="card-text"> 
                 <i class="fa-solid fa-triangle-exclamation"></i> Priority level: <a class="btn btn-sm btn-${btColor} btn-1   " id="gyy"><span class="result">${y.importance}</span></a></p>
